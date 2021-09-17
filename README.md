@@ -4,14 +4,14 @@
          width="45" />, I'm Shivani Singh</h1>
 <h5 align="center">
 I’m 2nd year student at Indira Gandhi Delhi Technical University for Women (IGDTUW).  
- ❤ I love Open Source
- 💻 I'm a self-taught web developer
- 🎓 I'm a Computer Science student
- 💃 If I'm not coding then you'll find me dancing 
+         <p>❤ I love Open Source</p>
+         <p>💻 I'm a self-taught web developer</p>
+         <p>🎓 I'm a Computer Science student</p>
+         <p>💃 If I'm not coding then you'll find me dancing </p>
 
 
 
-- 📫 How to reach me **shivanisg2003@gmail.com**
+📫 How to reach me **shivanisg2003@gmail.com**
 <br><br>
 <hr>
 
