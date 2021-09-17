@@ -4,7 +4,7 @@
          width="45" />, I'm Shivani Singh</h1>
 <h5 align="center">
 I’m 2nd year student at Indira Gandhi Delhi Technical University for Women (IGDTUW).  
-         <p>❤ I love Open Source</p>
+        <h5 align ="left"> <p>❤ I love Open Source</p>
          <p>💻 I'm a self-taught web developer</p>
          <p>🎓 I'm a Computer Science student</p>
          <p>💃 If I'm not coding then you'll find me dancing </p>
