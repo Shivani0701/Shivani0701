@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Shivani Singh**, currently pursuing B.Tech IGDTUW , Delhi in *Computer and Science Engineering*. <br>
+✔️ I am **Shivani**, currently pursuing B.Tech IGDTUW , Delhi in *Computer and Science Engineering*. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations. <br>
 
